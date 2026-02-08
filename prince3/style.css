@@ -1,0 +1,17 @@
+#body{
+    /* background-color: red; */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+    width: 400px;
+    height: 800px;
+    background-color: green;
+
+    border-radius: 20px;
+    margin-left: 20px;
+    z-index: 1;
+
+}
